@@ -1,0 +1,159 @@
+Initialize engine version: 2020.3.43f1 (75bff06b76bf)
+[Subsystems] Discovering subsystems at path D:/Games/Astrea/Astrea_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 8 Graphics (ID=0x15d8)
+    Vendor:   
+    VRAM:     7647 MB
+    Driver:   31.0.14051.5006
+<RI> Initializing input.
+<RI> Input initialized.
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initialized touch support.
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'EpicGamesManager') is missing!
+Shader 'CartoonCoffee/Particle Basics': fallback shader '2' not found
+Shader 'CartoonCoffee/Particle Additives': fallback shader '2' not found
+UnloadTime: 5.926100 ms
+LoadAllAchievements
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AchievementsList:LoadAllAchievements(GameInitializer)
+Clearings.GameInitializer:Initialize()
+
+===== Analytics Service Started Data Collection =====
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Clearings.<InitializeAnalytics>d__7:MoveNext()
+System.Threading.TimerCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.AndroidJavaRunnable:Invoke()
+System.Threading.TimerCallback:Invoke(Object)
+System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run(Task, Boolean)
+System.Threading.Tasks.Task:FinishContinuations()
+System.Threading.Tasks.Task`1:TrySetResult(TResult)
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+Unity.Services.Core.<InitializeAsync>d__15:MoveNext()
+System.Threading.TimerCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.AndroidJavaRunnable:Invoke()
+System.Threading.TimerCallback:Invoke(Object)
+System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run(Task, Boolean)
+System.Threading.Tasks.Task:FinishContinuations()
+System.Threading.Tasks.Task`1:TrySetResult(TResult)
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetResult(TResult)
+Unity.Services.Core.Internal.<InitializeAsync>d__20:MoveNext()
+System.Threading.TimerCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.AndroidJavaRunnable:Invoke()
+System.Threading.TimerCallback:Invoke(Object)
+System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run(Task, Boolean)
+System.Threading.Tasks.Task:FinishContinuations()
+System.Threading.Tasks.Task`1:TrySetResult(TResult)
+System.Threading.Tasks.TaskCompletionSource`1:TrySetResult(TResult)
+Unity.Services.Core.Internal.<>c__DisplayClass22_0:<InitializeServicesAsync>g__SucceedServicesInitialization|3()
+Unity.Services.Core.Internal.<InitializeServicesAsync>d__22:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+Unity.Services.Core.Internal.UnityServicesInternal:InitializeServicesAsync()
+Unity.Services.Core.Internal.<EnableInitializationAsync>d__24:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+Unity.Services.Core.Internal.<EnableServicesInitializationAsync>d__1:MoveNext()
+System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start(TStateMachine&)
+Unity.Services.Core.Internal.UnityServicesInitializer:EnableServicesInitializationAsync()
+
+Galaxy SDK was initialized
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:Log(Object, Object)
+GogGalaxyManager:Awake()
+UnityEngine.Object:Instantiate(T)
+
+GOGManager starting...
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Clearings.<Start>d__9:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+OnAuthFailure
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Clearings.GOGLoginListener:OnAuthFailure(FailureReason)
+Galaxy.Api.GalaxyInstance:ProcessData()
+
+SignedIn: False LoggedIn: False 
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Clearings.<Start>d__9:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+GOGManager initialized!
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Clearings.<Start>d__9:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 3)
+UnloadTime: 2.412000 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+IngameDebugConsole.DebugLogManager:Awake()
+
+[ line 1942940744]
+
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 37429.
+Total: 82.635700 ms (FindLiveObjects: 1.736500 ms CreateObjectMapping: 2.781600 ms MarkObjects: 78.007900 ms  DeleteObjects: 0.109400 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 4)
+UnloadTime: 24.113100 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+IngameDebugConsole.DebugLogManager:Awake()
+
+[ line 1942940856]
+
+Instance value overwritten at Clearings.LocalizationManager. LocalizationManager -> LocalizationManager
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ReferenceSingleton`1:Awake()
+
+Instance value overwritten at Clearings.CursorHandler. CursorHandler -> CursorHandler
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ReferenceSingleton`1:Awake()
+
+Object pool already exists: BlessingInstance
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PoolHandler:AddPool(GameObject, Transform)
+Clearings.CanvasRunStats:Initialize()
+Clearings.CanvasRunStats:OnInitializeGameStatsAndCompendium()
+UnityEngine.AndroidJavaRunnable:Invoke()
+UnityEngine.Events.InvokableCall:Invoke()
+UnityEngine.Events.UnityEvent`1:Invoke(T0)
+UnityEngine.Events.UnityAction`1:Invoke(T0)
+
+Order name not exists
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DiceCanvas:LoadTierFilter(Int32)
+DiceCanvas:Initialize()
+Clearings.CompendiumCanvas:OnInitializeGameStatsAndCompendium()
+UnityEngine.AndroidJavaRunnable:Invoke()
+UnityEngine.Events.InvokableCall:Invoke()
+UnityEngine.Events.UnityEvent`1:Invoke(T0)
+UnityEngine.Events.UnityAction`1:Invoke(T0)
+
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 57715.
+Total: 252.777400 ms (FindLiveObjects: 4.111200 ms CreateObjectMapping: 5.040700 ms MarkObjects: 242.976900 ms  DeleteObjects: 0.648000 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 325c -> priority: 1 
+  Thread -> id: 198c -> priority: 1 
+  Thread -> id: 36c8 -> priority: 1 
+  Thread -> id: 3570 -> priority: 1 

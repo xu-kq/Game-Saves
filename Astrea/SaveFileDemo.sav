@@ -1,0 +1,196 @@
+{
+	"MoonieUnlockedCharacterSaveDEMO" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"AchievementsFailedSave" : {
+		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		
+	]
+	},
+	"AgreementSave" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"QualitySave" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"ResolutionWidthSave" : {
+		"__type" : "int",
+		"value" : 1920
+	},
+	"ResolutionHeightSave" : {
+		"__type" : "int",
+		"value" : 1080
+	},
+	"ScreenModeSave" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"FpsSave" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"VSyncSave" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"MasterVolumeSave" : {
+		"__type" : "float",
+		"value" : 1
+	},
+	"BGMVolumeSave" : {
+		"__type" : "float",
+		"value" : 1
+	},
+	"SFXVolumeSave" : {
+		"__type" : "float",
+		"value" : 1
+	},
+	"MasterMuteSave" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"BGMMuteSave" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"SFXMuteSave" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"ControlsSave" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"ScreenshakeSave" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"DisableVFXSettingSave" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"repeatedEvents" : {
+		"__type" : "string",
+		"value" : "{\"value\":[]}"
+	},
+	"HiddenAnomalyLevelSecondBossPackageName" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"HiddenAnomalyLevelFirstBossDefeatedStartBattleOnSecondBoss" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"OnBattleSave" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"AstreaFirstPhaseDefeatedStartBattleOnAstreaSecondPhaseSave" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"RunSeedSave" : {
+		"__type" : "int",
+		"value" : 22889433
+	},
+	"MapPlayerTrackerSave" : {
+		"__type" : "string",
+		"value" : "{\"CurrentNodeIndex\":-1,\"CurrentAreaLevelIndex\":-1,\"CurrentAreaIndex\":0}"
+	},
+	"MapHistorySave" : {
+		"__type" : "string",
+		"value" : "{\"VisitedAreas\":[{\"visitedNodes\":[]}]}"
+	},
+	"LastRunTotalTimeSave" : {
+		"__type" : "float",
+		"value" : 0
+	},
+	"CurrentHeartsSave" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"CurrentMaxHeartsSave" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"CurrentGoldSave" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"SentinelShopRewardTimesVisitedSave" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"DestroyDiceShopItemBoughtCounterSave" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"DuplicateDiceShopItemBoughtSave" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"CharacterSave" : {
+		"__type" : "string",
+		"value" : "Moonie"
+	},
+	"ScoreXPItemDatasSave" : {
+		"__type" : "string",
+		"value" : "{\"ScoreXPItemDataRuntimeSave\":[]}"
+	},
+	"HeartsSacrificedCounterSave" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"HeartsLostOnBattleCounterSave" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"HighestPurification" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"DiceFacesForgedAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"DiceDestroyedAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"DiceDuplicatedAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"VirtuesUsedAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"StarShardsSpentAmountSave" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"DiceInventorySave" : {
+		"__type" : "string",
+		"value" : "{\"DiceSaves\":[{\"DiceName\":\"minorpurifymoonie\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"minorshieldmoonie\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"minorenhancemoonie\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"stellarcleansemoonie\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"minorrerollmoonie\",\"DiceAmount\":1,\"DiceFaceForged\":[]}]}"
+	},
+	"CompanionsSave" : {
+		"__type" : "string",
+		"value" : "{\"RuntimeCompanions\":[]}"
+	},
+	"OmensSave" : {
+		"__type" : "string",
+		"value" : "{\"RuntimeOmenDataSaveList\":[]}"
+	},
+	"BattleSpeedSave" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"PlayedTutorial" : {
+		"__type" : "bool",
+		"value" : true
+	}
+}
