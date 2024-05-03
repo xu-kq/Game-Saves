@@ -1,0 +1,3 @@
+Balatro  %USERPROFILE%/AppData/Roaming/Balatro
+
+Astrea: Six-Sided Oracles  	%USERPROFILE%/AppData/LocalLow/Little Leo Games/Astrea
